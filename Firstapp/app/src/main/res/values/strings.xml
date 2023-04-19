@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firstapp</string>
+    <string name="mobile_data">Mobile data</string>
+    <string name="mobile_data_us">Hi this is shivam,text view of mobile_data_us LOREM</string>
+    </resources>
